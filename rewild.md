@@ -22,5 +22,5 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, please contact us through the feedback form within the app or join our Telegram channel [https://t.me/rewildsupport].
+If you have any questions about this Privacy Policy, please contact us through the feedback form within the app or join our Telegram channel [Link](https://t.me/rewildsupport).
 
